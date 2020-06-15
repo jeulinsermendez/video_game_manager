@@ -1,0 +1,4 @@
+1;Accesorios;
+2;Consola;
+3;Juegos;
+4;Videos;

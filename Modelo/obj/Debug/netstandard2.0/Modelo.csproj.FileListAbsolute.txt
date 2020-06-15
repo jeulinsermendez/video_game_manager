@@ -1,0 +1,35 @@
+D:\LEYNOR\DESARROLLO DE INTERFICIES\CATEGORIAS\Modelo\bin\Debug\netstandard2.0\Modelo.deps.json
+D:\LEYNOR\DESARROLLO DE INTERFICIES\CATEGORIAS\Modelo\bin\Debug\netstandard2.0\Modelo.dll
+D:\LEYNOR\DESARROLLO DE INTERFICIES\CATEGORIAS\Modelo\bin\Debug\netstandard2.0\Modelo.pdb
+D:\LEYNOR\DESARROLLO DE INTERFICIES\CATEGORIAS\Modelo\obj\Debug\netstandard2.0\Modelo.csprojAssemblyReference.cache
+D:\LEYNOR\DESARROLLO DE INTERFICIES\CATEGORIAS\Modelo\obj\Debug\netstandard2.0\Modelo.csproj.CoreCompileInputs.cache
+D:\LEYNOR\DESARROLLO DE INTERFICIES\CATEGORIAS\Modelo\obj\Debug\netstandard2.0\Modelo.AssemblyInfoInputs.cache
+D:\LEYNOR\DESARROLLO DE INTERFICIES\CATEGORIAS\Modelo\obj\Debug\netstandard2.0\Modelo.AssemblyInfo.cs
+D:\LEYNOR\DESARROLLO DE INTERFICIES\CATEGORIAS\Modelo\obj\Debug\netstandard2.0\Modelo.dll
+D:\LEYNOR\DESARROLLO DE INTERFICIES\CATEGORIAS\Modelo\obj\Debug\netstandard2.0\Modelo.pdb
+E:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\proyectoCategorias\categoriasProyecto\CATEGORIAS\Modelo\bin\Debug\netstandard2.0\Modelo.deps.json
+E:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\proyectoCategorias\categoriasProyecto\CATEGORIAS\Modelo\bin\Debug\netstandard2.0\Modelo.dll
+E:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\proyectoCategorias\categoriasProyecto\CATEGORIAS\Modelo\bin\Debug\netstandard2.0\Modelo.pdb
+E:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\proyectoCategorias\categoriasProyecto\CATEGORIAS\Modelo\obj\Debug\netstandard2.0\Modelo.csprojAssemblyReference.cache
+E:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\proyectoCategorias\categoriasProyecto\CATEGORIAS\Modelo\obj\Debug\netstandard2.0\Modelo.csproj.CoreCompileInputs.cache
+E:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\proyectoCategorias\categoriasProyecto\CATEGORIAS\Modelo\obj\Debug\netstandard2.0\Modelo.AssemblyInfoInputs.cache
+E:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\proyectoCategorias\categoriasProyecto\CATEGORIAS\Modelo\obj\Debug\netstandard2.0\Modelo.AssemblyInfo.cs
+E:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\proyectoCategorias\categoriasProyecto\CATEGORIAS\Modelo\obj\Debug\netstandard2.0\Modelo.dll
+E:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\proyectoCategorias\categoriasProyecto\CATEGORIAS\Modelo\obj\Debug\netstandard2.0\Modelo.pdb
+E:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\CATEGORIAS\Modelo\bin\Debug\netstandard2.0\Modelo.deps.json
+E:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\CATEGORIAS\Modelo\bin\Debug\netstandard2.0\Modelo.dll
+E:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\CATEGORIAS\Modelo\bin\Debug\netstandard2.0\Modelo.pdb
+E:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\CATEGORIAS\Modelo\obj\Debug\netstandard2.0\Modelo.csprojAssemblyReference.cache
+E:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\CATEGORIAS\Modelo\obj\Debug\netstandard2.0\Modelo.csproj.CoreCompileInputs.cache
+E:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\CATEGORIAS\Modelo\obj\Debug\netstandard2.0\Modelo.AssemblyInfoInputs.cache
+E:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\CATEGORIAS\Modelo\obj\Debug\netstandard2.0\Modelo.AssemblyInfo.cs
+E:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\CATEGORIAS\Modelo\obj\Debug\netstandard2.0\Modelo.dll
+E:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\CATEGORIAS\Modelo\obj\Debug\netstandard2.0\Modelo.pdb
+H:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\CATEGORIAS\Modelo\bin\Debug\netstandard2.0\Modelo.deps.json
+H:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\CATEGORIAS\Modelo\bin\Debug\netstandard2.0\Modelo.dll
+H:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\CATEGORIAS\Modelo\bin\Debug\netstandard2.0\Modelo.pdb
+H:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\CATEGORIAS\Modelo\obj\Debug\netstandard2.0\Modelo.csprojAssemblyReference.cache
+H:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\CATEGORIAS\Modelo\obj\Debug\netstandard2.0\Modelo.AssemblyInfoInputs.cache
+H:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\CATEGORIAS\Modelo\obj\Debug\netstandard2.0\Modelo.AssemblyInfo.cs
+H:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\CATEGORIAS\Modelo\obj\Debug\netstandard2.0\Modelo.dll
+H:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\CATEGORIAS\Modelo\obj\Debug\netstandard2.0\Modelo.pdb

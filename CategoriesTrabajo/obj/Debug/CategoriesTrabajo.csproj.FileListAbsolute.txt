@@ -1,0 +1,56 @@
+D:\LEYNOR\DESARROLLO DE INTERFICIES\CATEGORIAS\CategoriesTrabajo\bin\Debug\CategoriesTrabajo.exe.config
+D:\LEYNOR\DESARROLLO DE INTERFICIES\CATEGORIAS\CategoriesTrabajo\bin\Debug\CategoriesTrabajo.exe
+D:\LEYNOR\DESARROLLO DE INTERFICIES\CATEGORIAS\CategoriesTrabajo\bin\Debug\CategoriesTrabajo.pdb
+D:\LEYNOR\DESARROLLO DE INTERFICIES\CATEGORIAS\CategoriesTrabajo\bin\Debug\Modelo.dll
+D:\LEYNOR\DESARROLLO DE INTERFICIES\CATEGORIAS\CategoriesTrabajo\bin\Debug\Modelo.pdb
+D:\LEYNOR\DESARROLLO DE INTERFICIES\CATEGORIAS\CategoriesTrabajo\obj\Debug\CategoriesTrabajo.csprojAssemblyReference.cache
+D:\LEYNOR\DESARROLLO DE INTERFICIES\CATEGORIAS\CategoriesTrabajo\obj\Debug\CategoriesTrabajo.Form1.resources
+D:\LEYNOR\DESARROLLO DE INTERFICIES\CATEGORIAS\CategoriesTrabajo\obj\Debug\CategoriesTrabajo.Properties.Resources.resources
+D:\LEYNOR\DESARROLLO DE INTERFICIES\CATEGORIAS\CategoriesTrabajo\obj\Debug\CategoriesTrabajo.csproj.GenerateResource.cache
+D:\LEYNOR\DESARROLLO DE INTERFICIES\CATEGORIAS\CategoriesTrabajo\obj\Debug\CategoriesTrabajo.csproj.CoreCompileInputs.cache
+D:\LEYNOR\DESARROLLO DE INTERFICIES\CATEGORIAS\CategoriesTrabajo\obj\Debug\CategoriesTrabajo.csproj.CopyComplete
+D:\LEYNOR\DESARROLLO DE INTERFICIES\CATEGORIAS\CategoriesTrabajo\obj\Debug\CategoriesTrabajo.exe
+D:\LEYNOR\DESARROLLO DE INTERFICIES\CATEGORIAS\CategoriesTrabajo\obj\Debug\CategoriesTrabajo.pdb
+E:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\proyectoCategorias\categoriasProyecto\CATEGORIAS\CategoriesTrabajo\bin\Debug\CategoriesTrabajo.exe.config
+E:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\proyectoCategorias\categoriasProyecto\CATEGORIAS\CategoriesTrabajo\bin\Debug\CategoriesTrabajo.exe
+E:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\proyectoCategorias\categoriasProyecto\CATEGORIAS\CategoriesTrabajo\bin\Debug\CategoriesTrabajo.pdb
+E:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\proyectoCategorias\categoriasProyecto\CATEGORIAS\CategoriesTrabajo\bin\Debug\Modelo.dll
+E:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\proyectoCategorias\categoriasProyecto\CATEGORIAS\CategoriesTrabajo\bin\Debug\Modelo.pdb
+E:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\proyectoCategorias\categoriasProyecto\CATEGORIAS\CategoriesTrabajo\obj\Debug\CategoriesTrabajo.csprojAssemblyReference.cache
+E:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\proyectoCategorias\categoriasProyecto\CATEGORIAS\CategoriesTrabajo\obj\Debug\CategoriesTrabajo.Form1.resources
+E:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\proyectoCategorias\categoriasProyecto\CATEGORIAS\CategoriesTrabajo\obj\Debug\CategoriesTrabajo.Properties.Resources.resources
+E:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\proyectoCategorias\categoriasProyecto\CATEGORIAS\CategoriesTrabajo\obj\Debug\CategoriesTrabajo.csproj.GenerateResource.cache
+E:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\proyectoCategorias\categoriasProyecto\CATEGORIAS\CategoriesTrabajo\obj\Debug\CategoriesTrabajo.csproj.CoreCompileInputs.cache
+E:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\proyectoCategorias\categoriasProyecto\CATEGORIAS\CategoriesTrabajo\obj\Debug\CategoriesTrabajo.csproj.CopyComplete
+E:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\proyectoCategorias\categoriasProyecto\CATEGORIAS\CategoriesTrabajo\obj\Debug\CategoriesTrabajo.exe
+E:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\proyectoCategorias\categoriasProyecto\CATEGORIAS\CategoriesTrabajo\obj\Debug\CategoriesTrabajo.pdb
+E:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\proyectoCategorias\categoriasProyecto\CATEGORIAS\CategoriesTrabajo\obj\Debug\CategoriesTrabajo.Validacion.resources
+E:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\CATEGORIAS\CategoriesTrabajo\bin\Debug\CategoriesTrabajo.exe.config
+E:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\CATEGORIAS\CategoriesTrabajo\bin\Debug\CategoriesTrabajo.exe
+E:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\CATEGORIAS\CategoriesTrabajo\bin\Debug\CategoriesTrabajo.pdb
+E:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\CATEGORIAS\CategoriesTrabajo\bin\Debug\Modelo.dll
+E:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\CATEGORIAS\CategoriesTrabajo\bin\Debug\Modelo.pdb
+E:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\CATEGORIAS\CategoriesTrabajo\obj\Debug\CategoriesTrabajo.csprojAssemblyReference.cache
+E:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\CATEGORIAS\CategoriesTrabajo\obj\Debug\CategoriesTrabajo.Form1.resources
+E:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\CATEGORIAS\CategoriesTrabajo\obj\Debug\CategoriesTrabajo.Properties.Resources.resources
+E:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\CATEGORIAS\CategoriesTrabajo\obj\Debug\CategoriesTrabajo.Validacion.resources
+E:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\CATEGORIAS\CategoriesTrabajo\obj\Debug\CategoriesTrabajo.csproj.GenerateResource.cache
+E:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\CATEGORIAS\CategoriesTrabajo\obj\Debug\CategoriesTrabajo.csproj.CoreCompileInputs.cache
+E:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\CATEGORIAS\CategoriesTrabajo\obj\Debug\CategoriesTrabajo.csproj.CopyComplete
+E:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\CATEGORIAS\CategoriesTrabajo\obj\Debug\CategoriesTrabajo.exe
+E:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\CATEGORIAS\CategoriesTrabajo\obj\Debug\CategoriesTrabajo.pdb
+E:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\CATEGORIAS\CategoriesTrabajo\obj\Debug\CategoriesTrabajo.LisView.resources
+H:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\CATEGORIAS\CategoriesTrabajo\bin\Debug\CategoriesTrabajo.exe.config
+H:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\CATEGORIAS\CategoriesTrabajo\bin\Debug\CategoriesTrabajo.exe
+H:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\CATEGORIAS\CategoriesTrabajo\bin\Debug\CategoriesTrabajo.pdb
+H:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\CATEGORIAS\CategoriesTrabajo\bin\Debug\Modelo.dll
+H:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\CATEGORIAS\CategoriesTrabajo\bin\Debug\Modelo.pdb
+H:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\CATEGORIAS\CategoriesTrabajo\obj\Debug\CategoriesTrabajo.csprojAssemblyReference.cache
+H:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\CATEGORIAS\CategoriesTrabajo\obj\Debug\CategoriesTrabajo.Form1.resources
+H:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\CATEGORIAS\CategoriesTrabajo\obj\Debug\CategoriesTrabajo.LisView.resources
+H:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\CATEGORIAS\CategoriesTrabajo\obj\Debug\CategoriesTrabajo.Properties.Resources.resources
+H:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\CATEGORIAS\CategoriesTrabajo\obj\Debug\CategoriesTrabajo.Validacion.resources
+H:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\CATEGORIAS\CategoriesTrabajo\obj\Debug\CategoriesTrabajo.csproj.GenerateResource.cache
+H:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\CATEGORIAS\CategoriesTrabajo\obj\Debug\CategoriesTrabajo.csproj.CopyComplete
+H:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\CATEGORIAS\CategoriesTrabajo\obj\Debug\CategoriesTrabajo.exe
+H:\DAM LEYNOR\DESARROLLO DE INTERCICIE\CATEGORIAS\CATEGORIAS\CategoriesTrabajo\obj\Debug\CategoriesTrabajo.pdb
